@@ -1,4 +1,5 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20Seona!&fontAlign=75&fontAlignY=40&color=gradient&animation=twinkling)
 
 ### Hi there 👋
@@ -20,4 +21,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=java_chip)](https://solved.ac/java_chip)
+  
 </div>
