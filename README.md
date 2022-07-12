@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=I%20am%20Seona!&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20Seona!&fontAlign=75&fontAlignY=40&color=gradient&animation=twinkling)
 
 ### Hi there 👋
 
