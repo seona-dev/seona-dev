@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20Seona!&fontAlign=75&fontAlignY=40&color=gradient&animation=twinkling)
 
-### Hi there 👋
-
 <!--
 **seona-dev/seona-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
